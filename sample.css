@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+#mrflower {
+float: right;
+}
+
+#crazykitten {
+    display: inline;
+    max-width: 40%;
+}
+
+h1 {
+    text-align: center;
+    color:palevioletred;
+    font-size: 100px;
+}
+
+#smilybop {
+    width: 300px;
+    padding-left: 150px;
+}
